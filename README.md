@@ -1,5 +1,3 @@
-# To access the source code please switch to the master branch
-
 # Social-Media-app
 
 Welcome to the README for the Social Media application using MERN stack!
